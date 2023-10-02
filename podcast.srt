@@ -1,0 +1,1420 @@
+1
+00:00:00,500 --> 00:00:02,866
+hi it's Nick said love from the label machine here
+
+2
+00:00:02,866 --> 00:00:04,100
+and on today's podcast
+
+3
+00:00:04,100 --> 00:00:07,266
+we have Harry Sonnet from Daily playlist.com
+
+4
+00:00:07,266 --> 00:00:09,966
+Harry deep dived into the world of Spotify playlisting
+
+5
+00:00:09,966 --> 00:00:12,500
+the importance of curators and playlisting
+
+6
+00:00:12,500 --> 00:00:13,766
+and how and when
+
+7
+00:00:13,766 --> 00:00:16,233
+you should start submitting your music for playlists
+
+8
+00:00:16,333 --> 00:00:17,400
+during a release cycle
+
+9
+00:00:17,400 --> 00:00:19,200
+we also discussed how
+
+10
+00:00:19,266 --> 00:00:22,633
+and when to market your own playlist as a record label
+
+11
+00:00:22,700 --> 00:00:25,400
+and he shared his views on how to spend $500
+
+12
+00:00:25,400 --> 00:00:27,300
+on marketing your next single
+
+13
+00:00:27,300 --> 00:00:29,166
+if you're interested in all
+
+14
+00:00:29,166 --> 00:00:31,466
+and how Spotify playlisting works
+
+15
+00:00:31,466 --> 00:00:34,266
+to further your label or artist revenues
+
+16
+00:00:34,266 --> 00:00:36,200
+you are gonna love this episode
+
+17
+00:00:36,533 --> 00:00:38,733
+you're listening to the Label Machine series
+
+18
+00:00:38,733 --> 00:00:41,366
+a podcast to inspire and help indie record labels
+
+19
+00:00:41,366 --> 00:00:44,300
+and artists to build income streams for their music
+
+20
+00:00:44,400 --> 00:00:45,400
+I'm Nick Sadler
+
+21
+00:00:45,400 --> 00:00:47,066
+a music entrepreneur that has helped star
+
+22
+00:00:47,066 --> 00:00:49,233
+and run multiple indie record labels
+
+23
+00:00:49,300 --> 00:00:49,966
+in this series
+
+24
+00:00:49,966 --> 00:00:51,900
+I'll be speaking with music industry leaders
+
+25
+00:00:51,900 --> 00:00:54,166
+about their experience and the lessons they learn
+
+26
+00:00:54,166 --> 00:00:57,366
+on how they both market and grow their music income
+
+27
+00:01:00,400 --> 00:01:02,333
+welcome to the Label Machine series
+
+28
+00:01:02,333 --> 00:01:04,733
+where we discuss with our guests how artists
+
+29
+00:01:04,733 --> 00:01:08,500
+and record labels promote and monetize music
+
+30
+00:01:08,500 --> 00:01:10,700
+today's guest is Harry Sodnick
+
+31
+00:01:11,066 --> 00:01:13,600
+Harry is an accomplished product lead
+
+32
+00:01:13,600 --> 00:01:15,866
+currently based in Berlin Germany
+
+33
+00:01:15,866 --> 00:01:18,300
+during his tenor at 5 Victors Inc
+
+34
+00:01:18,300 --> 00:01:22,100
+he helped transform daily playlist.com into a thriving
+
+35
+00:01:22,100 --> 00:01:23,800
+curator centric platform
+
+36
+00:01:23,800 --> 00:01:28,500
+growing up from 15,000 to 40,000 monthly active users
+
+37
+00:01:28,700 --> 00:01:30,300
+he also spearheaded the Republic at
+
+38
+00:01:30,300 --> 00:01:33,200
+groundbreaking with 3 project on the polygon blockchain
+
+39
+00:01:33,200 --> 00:01:34,333
+as a creative manager
+
+40
+00:01:34,333 --> 00:01:35,933
+he crafted audiovisual assets
+
+41
+00:01:35,933 --> 00:01:37,166
+for gaming and music products
+
+42
+00:01:37,166 --> 00:01:39,900
+collaborating with renowned esports partners
+
+43
+00:01:39,900 --> 00:01:41,400
+such as league of Legends
+
+44
+00:01:41,400 --> 00:01:43,066
+Fortnite and Rocket League
+
+45
+00:01:43,300 --> 00:01:45,066
+diverse background of the music industry
+
+46
+00:01:45,066 --> 00:01:46,333
+and freelance consulting
+
+47
+00:01:46,333 --> 00:01:48,666
+Harry brings a wealth of knowledge to the table
+
+48
+00:01:48,666 --> 00:01:51,666
+which I am looking forward to sharing with you today
+
+49
+00:01:51,666 --> 00:01:53,033
+Harry how are you
+
+50
+00:01:53,400 --> 00:01:55,000
+yeah uh thank you for the intro
+
+51
+00:01:55,000 --> 00:01:56,400
+yeah I'm doing really well
+
+52
+00:01:56,700 --> 00:02:00,400
+um summer in Berlin so far has been a lot of rain
+
+53
+00:02:00,800 --> 00:02:02,966
+um which is currently stopped for a little bit
+
+54
+00:02:02,966 --> 00:02:04,900
+maybe I see a bit of sunlight but um
+
+55
+00:02:04,900 --> 00:02:05,800
+apart from that
+
+56
+00:02:05,800 --> 00:02:06,466
+all good thanks
+
+57
+00:02:06,466 --> 00:02:08,066
+mate awesome
+
+58
+00:02:08,133 --> 00:02:11,500
+so you were born and now you're here talking to me
+
+59
+00:02:11,500 --> 00:02:13,400
+tell me what happened in between
+
+60
+00:02:13,766 --> 00:02:15,600
+so originally
+
+61
+00:02:15,600 --> 00:02:18,133
+I was born in the Midlands in the UK
+
+62
+00:02:18,133 --> 00:02:20,500
+moved up to the North East of England
+
+63
+00:02:20,500 --> 00:02:21,333
+got to mention that
+
+64
+00:02:21,333 --> 00:02:22,833
+hence the accent
+
+65
+00:02:22,900 --> 00:02:24,966
+yeah I'm very big part of my personality
+
+66
+00:02:25,066 --> 00:02:27,000
+um and then from there
+
+67
+00:02:27,000 --> 00:02:30,233
+I started learning to play drums when I was about ten
+
+68
+00:02:30,600 --> 00:02:33,900
+and instantly threw myself into playing with bands
+
+69
+00:02:33,900 --> 00:02:34,900
+like with my friends
+
+70
+00:02:34,900 --> 00:02:37,100
+which really sparked um
+
+71
+00:02:37,100 --> 00:02:38,900
+I love for music
+
+72
+00:02:38,900 --> 00:02:40,600
+specifically live music at the time
+
+73
+00:02:40,600 --> 00:02:43,266
+playing in bands and just generally um
+
+74
+00:02:43,266 --> 00:02:45,866
+I guess listen to all different types of genres
+
+75
+00:02:45,866 --> 00:02:47,100
+whatever it may be
+
+76
+00:02:47,466 --> 00:02:50,700
+um this sort of was a complete
+
+77
+00:02:50,700 --> 00:02:51,933
+a constant throughout my
+
+78
+00:02:51,933 --> 00:02:52,766
+like adolescence
+
+79
+00:02:52,766 --> 00:02:53,733
+like my teen years
+
+80
+00:02:53,733 --> 00:02:54,733
+just playing music
+
+81
+00:02:54,733 --> 00:02:56,866
+being surrounded by musical people
+
+82
+00:02:57,300 --> 00:02:59,300
+um which kinda translated to again
+
+83
+00:02:59,300 --> 00:03:01,300
+playing in lots of different types of bands
+
+84
+00:03:01,400 --> 00:03:04,200
+um and then eventually making the move to uh
+
+85
+00:03:04,200 --> 00:03:05,566
+Brighton um
+
+86
+00:03:05,566 --> 00:03:06,966
+from there um
+
+87
+00:03:06,966 --> 00:03:08,766
+I was studying music business
+
+88
+00:03:08,766 --> 00:03:12,500
+um bin and I was also against still playing a bands
+
+89
+00:03:12,533 --> 00:03:14,366
+and at the time um
+
+90
+00:03:14,366 --> 00:03:15,333
+one of my bands they
+
+91
+00:03:15,333 --> 00:03:18,166
+we got picked up by some fairly reputable managers
+
+92
+00:03:18,166 --> 00:03:19,066
+which is really cool
+
+93
+00:03:19,066 --> 00:03:21,733
+because I was learning about the music industry
+
+94
+00:03:21,733 --> 00:03:22,333
+before that
+
+95
+00:03:22,333 --> 00:03:24,166
+I had a very DIY approach
+
+96
+00:03:24,166 --> 00:03:25,900
+but then I was working with the team and
+
+97
+00:03:25,900 --> 00:03:27,833
+you know really getting to apply
+
+98
+00:03:28,066 --> 00:03:30,300
+um what I was learning um
+
+99
+00:03:30,300 --> 00:03:32,500
+so some really cool like uh
+
+100
+00:03:32,500 --> 00:03:34,900
+opportunities came out from that um
+
+101
+00:03:34,900 --> 00:03:36,500
+we played out in like Glastonbury
+
+102
+00:03:36,500 --> 00:03:37,166
+South Korea
+
+103
+00:03:37,166 --> 00:03:38,200
+South Korea
+
+104
+00:03:38,600 --> 00:03:40,666
+uh reading the Leeds Festival
+
+105
+00:03:40,700 --> 00:03:43,166
+and really got to see some like um
+
+106
+00:03:43,200 --> 00:03:44,966
+the inside of the music industry that you
+
+107
+00:03:44,966 --> 00:03:45,800
+getting taught about
+
+108
+00:03:45,800 --> 00:03:46,266
+um you know
+
+109
+00:03:46,266 --> 00:03:47,366
+on like paper
+
+110
+00:03:47,733 --> 00:03:50,033
+and so from there
+
+111
+00:03:50,400 --> 00:03:51,500
+ended up graduating
+
+112
+00:03:51,600 --> 00:03:53,966
+the band kinda dissolved very naturally
+
+113
+00:03:54,200 --> 00:03:55,600
+um and then yeah
+
+114
+00:03:55,600 --> 00:03:57,766
+sorry job opportunity over here in Berlin
+
+115
+00:03:57,766 --> 00:03:59,500
+working for a gaming music company
+
+116
+00:03:59,500 --> 00:04:01,366
+5 vectors um
+
+117
+00:04:01,366 --> 00:04:03,700
+who had daily playlist under their repertoire
+
+118
+00:04:03,700 --> 00:04:05,000
+of their products
+
+119
+00:04:05,100 --> 00:04:06,733
+um that they're working on um
+
+120
+00:04:06,733 --> 00:04:07,966
+and from there yeah
+
+121
+00:04:07,966 --> 00:04:09,066
+really made the jump
+
+122
+00:04:09,266 --> 00:04:10,700
+um my other side to me
+
+123
+00:04:10,700 --> 00:04:12,700
+as well as being um
+
+124
+00:04:12,700 --> 00:04:14,133
+really into my like punk
+
+125
+00:04:14,133 --> 00:04:15,200
+garage rock music
+
+126
+00:04:15,200 --> 00:04:16,466
+first and foremost
+
+127
+00:04:16,466 --> 00:04:17,666
+is I'm a massive nerd
+
+128
+00:04:17,866 --> 00:04:20,466
+absolutely massive nerd so um
+
+129
+00:04:20,600 --> 00:04:23,000
+working within a space where it was a crossover
+
+130
+00:04:23,000 --> 00:04:25,033
+between gaming and music
+
+131
+00:04:25,100 --> 00:04:28,000
+and esports and all of this coming together
+
+132
+00:04:28,266 --> 00:04:31,066
+it seemed like a bit of a too good to be true situation
+
+133
+00:04:31,066 --> 00:04:31,733
+especially with
+
+134
+00:04:31,733 --> 00:04:35,300
+the opportunity to move out here to Berlin um
+
+135
+00:04:35,366 --> 00:04:36,200
+so yeah from there
+
+136
+00:04:36,200 --> 00:04:37,733
+I started working on daily playlist
+
+137
+00:04:37,733 --> 00:04:39,400
+like back in like 2019
+
+138
+00:04:39,566 --> 00:04:42,266
+um with the original founder um
+
+139
+00:04:42,266 --> 00:04:44,566
+but also working across the host of projects which um
+
+140
+00:04:44,566 --> 00:04:45,600
+you mentioned there
+
+141
+00:04:46,933 --> 00:04:48,266
+and yeah what was it
+
+142
+00:04:48,266 --> 00:04:49,400
+like 2023 now
+
+143
+00:04:49,400 --> 00:04:50,066
+and then yeah
+
+144
+00:04:50,066 --> 00:04:53,266
+sort of now only working on daily playlists um
+
+145
+00:04:53,266 --> 00:04:54,733
+but yeah it was um
+
+146
+00:04:54,733 --> 00:04:57,533
+along the way picked up a whole host of um
+
+147
+00:04:57,533 --> 00:05:00,200
+experiences working across different technologies
+
+148
+00:05:00,466 --> 00:05:03,133
+I'm working with different types of music campaigns
+
+149
+00:05:03,133 --> 00:05:04,766
+looking at it from like the tech angle
+
+150
+00:05:04,766 --> 00:05:06,000
+but also still
+
+151
+00:05:06,066 --> 00:05:08,866
+looking at it from the independent artist angle
+
+152
+00:05:08,866 --> 00:05:10,066
+the label angle and uh
+
+153
+00:05:10,066 --> 00:05:12,100
+really keeping the post on what is going on within
+
+154
+00:05:12,100 --> 00:05:12,900
+the music industry
+
+155
+00:05:12,900 --> 00:05:14,366
+so get in for me
+
+156
+00:05:14,366 --> 00:05:15,566
+I guess the perfect like 3
+
+157
+00:05:15,566 --> 00:05:17,333
+60 view of um
+
+158
+00:05:17,333 --> 00:05:18,433
+my little space
+
+159
+00:05:18,766 --> 00:05:19,900
+that's it oh
+
+160
+00:05:19,900 --> 00:05:20,500
+it's amazing
+
+161
+00:05:20,500 --> 00:05:20,966
+and and you know
+
+162
+00:05:20,966 --> 00:05:22,300
+that's what so many of our listeners
+
+163
+00:05:22,300 --> 00:05:23,466
+especially are in that
+
+164
+00:05:23,466 --> 00:05:25,300
+that independent music space
+
+165
+00:05:25,300 --> 00:05:26,400
+but you know
+
+166
+00:05:26,566 --> 00:05:27,766
+combined with the business
+
+167
+00:05:27,766 --> 00:05:29,800
+and technology aspects as well
+
+168
+00:05:30,066 --> 00:05:32,666
+so um jumping into Daily Playlist as well
+
+169
+00:05:32,666 --> 00:05:35,700
+which is one of the reasons why I reached out to you uh
+
+170
+00:05:35,700 --> 00:05:38,100
+it's one of the few playlist companies we recommend
+
+171
+00:05:38,100 --> 00:05:39,100
+at The Label Machine
+
+172
+00:05:39,100 --> 00:05:40,300
+it's very popular
+
+173
+00:05:40,400 --> 00:05:40,866
+are you guys
+
+174
+00:05:40,866 --> 00:05:42,300
+do a great job over there
+
+175
+00:05:42,366 --> 00:05:43,266
+can you give us a
+
+176
+00:05:43,266 --> 00:05:47,266
+quick rundown of what Daily Playlists is at its essence
+
+177
+00:05:47,266 --> 00:05:48,466
+and a rundown of
+
+178
+00:05:48,566 --> 00:05:51,200
+what are your main activities are there
+
+179
+00:05:51,500 --> 00:05:54,066
+mm hmm so in it's car essence
+
+180
+00:05:54,066 --> 00:05:57,200
+Daily Playlist is a very simple and easy to use
+
+181
+00:05:57,200 --> 00:05:59,800
+a playlist submission platform um
+
+182
+00:05:59,800 --> 00:06:01,333
+we really automate the play uh
+
+183
+00:06:01,333 --> 00:06:01,900
+the process
+
+184
+00:06:01,900 --> 00:06:05,333
+so artists can go through a flow of entering the song
+
+185
+00:06:05,333 --> 00:06:06,533
+just searching for it
+
+186
+00:06:06,533 --> 00:06:09,766
+connecting to the platform via the Spotify uh
+
+187
+00:06:09,766 --> 00:06:10,700
+Spotify login
+
+188
+00:06:10,700 --> 00:06:12,066
+and then having uh
+
+189
+00:06:12,100 --> 00:06:15,066
+been able to select from over 18,000 playlists
+
+190
+00:06:15,200 --> 00:06:16,300
+to submit to
+
+191
+00:06:16,333 --> 00:06:18,866
+or over 400 premium curators
+
+192
+00:06:18,866 --> 00:06:21,366
+which I can get into a bit later um
+
+193
+00:06:21,366 --> 00:06:24,300
+for the curator inside the things we again
+
+194
+00:06:24,300 --> 00:06:26,533
+really pride ourselves in simplifying and automating
+
+195
+00:06:26,533 --> 00:06:27,833
+the processes where
+
+196
+00:06:27,933 --> 00:06:29,666
+the curators can organise
+
+197
+00:06:29,666 --> 00:06:32,100
+can fill the through submissions um
+
+198
+00:06:32,100 --> 00:06:34,366
+and can easily find the right music for their playlist
+
+199
+00:06:34,366 --> 00:06:36,200
+while also um
+
+200
+00:06:36,900 --> 00:06:38,666
+having a platform which allows them to grow
+
+201
+00:06:38,666 --> 00:06:39,733
+and monetize um
+
+202
+00:06:39,733 --> 00:06:41,300
+their brands and profiles
+
+203
+00:06:41,800 --> 00:06:43,000
+hmm so what
+
+204
+00:06:43,000 --> 00:06:43,866
+how does the
+
+205
+00:06:43,866 --> 00:06:45,533
+cause I believe if you got a free account
+
+206
+00:06:45,533 --> 00:06:47,466
+you can get 20 credits and is
+
+207
+00:06:47,466 --> 00:06:49,200
+is that essentially 20
+
+208
+00:06:49,333 --> 00:06:50,200
+submissions
+
+209
+00:06:50,200 --> 00:06:50,533
+is that right
+
+210
+00:06:50,533 --> 00:06:50,966
+yeah exactly
+
+211
+00:06:50,966 --> 00:06:52,600
+so that's a very much like a 1 to 1
+
+212
+00:06:52,600 --> 00:06:54,266
+um yeah value
+
+213
+00:06:54,500 --> 00:06:55,400
+okay so I I
+
+214
+00:06:55,400 --> 00:06:57,166
+I've submitted my
+
+215
+00:06:57,166 --> 00:06:59,166
+my music what's the
+
+216
+00:06:59,366 --> 00:06:59,900
+what I mean
+
+217
+00:06:59,900 --> 00:07:01,100
+what's the I mean
+
+218
+00:07:01,100 --> 00:07:02,500
+70 people love daily playlist
+
+219
+00:07:02,500 --> 00:07:05,066
+cause you can submit to 20 playlists for free
+
+220
+00:07:05,200 --> 00:07:06,466
+what's the uh
+
+221
+00:07:06,466 --> 00:07:07,866
+how does the business model work
+
+222
+00:07:07,866 --> 00:07:08,766
+like how do you
+
+223
+00:07:08,766 --> 00:07:10,100
+you know how does the company
+
+224
+00:07:10,166 --> 00:07:12,566
+sort of make money if there's no financial
+
+225
+00:07:12,566 --> 00:07:13,700
+movement round it
+
+226
+00:07:14,166 --> 00:07:17,533
+so we do have two different monetization layers
+
+227
+00:07:17,533 --> 00:07:20,200
+so one of these is our Artist Pro
+
+228
+00:07:20,366 --> 00:07:22,133
+um layer which is a subscription plan
+
+229
+00:07:22,133 --> 00:07:24,700
+which you can get for 1499 per month
+
+230
+00:07:24,733 --> 00:07:27,000
+or hundred and fifty dollars per year
+
+231
+00:07:27,066 --> 00:07:28,733
+um which basically gives you tools
+
+232
+00:07:28,733 --> 00:07:31,200
+which allow you to make the most
+
+233
+00:07:31,300 --> 00:07:32,166
+of daily playlist
+
+234
+00:07:32,166 --> 00:07:34,300
+really expand on um
+
+235
+00:07:34,333 --> 00:07:35,500
+your experience
+
+236
+00:07:35,533 --> 00:07:36,133
+on the site
+
+237
+00:07:36,133 --> 00:07:39,966
+so um we can get into the individual products um
+
+238
+00:07:40,266 --> 00:07:41,866
+on a deeper level in a bit
+
+239
+00:07:41,866 --> 00:07:43,966
+but we have a tool which automates
+
+240
+00:07:44,166 --> 00:07:46,466
+automatically submits to playlist for you
+
+241
+00:07:46,666 --> 00:07:49,900
+um which we have a algorithm which you built
+
+242
+00:07:49,900 --> 00:07:51,466
+which can basically
+
+243
+00:07:51,666 --> 00:07:53,866
+match your submission to the playlist
+
+244
+00:07:53,866 --> 00:07:55,466
+um based on the playlist
+
+245
+00:07:55,466 --> 00:07:56,366
+like quality
+
+246
+00:07:56,700 --> 00:07:59,700
+um we also have the ability to add uh
+
+247
+00:07:59,700 --> 00:08:02,666
+pre saves to what we called the gate system
+
+248
+00:08:03,100 --> 00:08:05,500
+um which means that if you have a playlist
+
+249
+00:08:05,500 --> 00:08:06,900
+or if you wanna create a contest
+
+250
+00:08:06,900 --> 00:08:08,966
+you can then have the terms and conditions of the
+
+251
+00:08:08,966 --> 00:08:10,266
+entry or submission
+
+252
+00:08:10,400 --> 00:08:12,366
+to being pre saving the release
+
+253
+00:08:12,600 --> 00:08:14,100
+um and then also we um
+
+254
+00:08:14,100 --> 00:08:15,700
+have a number of other features
+
+255
+00:08:15,700 --> 00:08:16,966
+which include like uh
+
+256
+00:08:16,966 --> 00:08:17,866
+our trending list
+
+257
+00:08:17,866 --> 00:08:19,100
+our track Explorer
+
+258
+00:08:19,133 --> 00:08:20,700
+and very community based
+
+259
+00:08:20,700 --> 00:08:22,566
+engagement um
+
+260
+00:08:22,700 --> 00:08:23,866
+is because we have a very
+
+261
+00:08:23,866 --> 00:08:24,966
+very active community
+
+262
+00:08:24,966 --> 00:08:26,066
+which is super
+
+263
+00:08:26,200 --> 00:08:28,533
+um open but then on the other side
+
+264
+00:08:28,533 --> 00:08:31,233
+we have the premium layer for curators
+
+265
+00:08:31,466 --> 00:08:32,966
+in which we have a very
+
+266
+00:08:32,966 --> 00:08:35,433
+heavily vetted um
+
+267
+00:08:35,933 --> 00:08:38,833
+marketplace of curators who have got um
+
+268
+00:08:39,000 --> 00:08:40,333
+proven engagement
+
+269
+00:08:40,333 --> 00:08:45,000
+genuine um quality to the curation
+
+270
+00:08:45,400 --> 00:08:47,133
+and their branding
+
+271
+00:08:47,133 --> 00:08:48,600
+especially is what we look at
+
+272
+00:08:48,733 --> 00:08:50,866
+and just very much
+
+273
+00:08:51,100 --> 00:08:52,266
+established within the space
+
+274
+00:08:52,266 --> 00:08:54,266
+so for $2 per submission
+
+275
+00:08:54,266 --> 00:08:55,733
+you can submit to these curators
+
+276
+00:08:55,733 --> 00:08:57,400
+when we split that 60
+
+277
+00:08:57,400 --> 00:08:59,666
+40 in the curators favour
+
+278
+00:08:59,700 --> 00:09:01,166
+per submission that they review
+
+279
+00:09:02,866 --> 00:09:03,766
+ah gotchain
+
+280
+00:09:03,766 --> 00:09:07,166
+so can people just submit anytime to those
+
+281
+00:09:07,166 --> 00:09:09,166
+premium playlists
+
+282
+00:09:09,500 --> 00:09:11,466
+would you have to be on the membership model
+
+283
+00:09:11,466 --> 00:09:12,633
+for that to work
+
+284
+00:09:12,800 --> 00:09:14,266
+so anyone can buy
+
+285
+00:09:14,366 --> 00:09:15,700
+so we have two different um
+
+286
+00:09:15,700 --> 00:09:16,666
+credit types
+
+287
+00:09:16,666 --> 00:09:17,766
+we have the standard credits
+
+288
+00:09:17,766 --> 00:09:19,700
+which are the ones that you get every week to 20
+
+289
+00:09:19,700 --> 00:09:21,533
+that refresh on a Monday um
+
+290
+00:09:21,533 --> 00:09:24,200
+and then we also have the premium credits um
+
+291
+00:09:24,200 --> 00:09:25,400
+which you can purchase
+
+292
+00:09:25,400 --> 00:09:26,666
+I think for 20
+
+293
+00:09:26,666 --> 00:09:28,366
+um it is 39
+
+294
+00:09:28,366 --> 00:09:31,300
+99 and for 10 it's 1999 um
+
+295
+00:09:31,300 --> 00:09:34,266
+and then you can freely spend those premium credits to
+
+296
+00:09:34,266 --> 00:09:35,533
+the premium curators
+
+297
+00:09:35,533 --> 00:09:38,200
+so rather than submitting to an individual playlist
+
+298
+00:09:38,400 --> 00:09:40,200
+you submit to a curator
+
+299
+00:09:40,266 --> 00:09:43,300
+who then evaluates and gives you feedback on the um
+
+300
+00:09:43,300 --> 00:09:45,500
+on your submission and um
+
+301
+00:09:45,500 --> 00:09:47,800
+if it's a fit for their profile
+
+302
+00:09:47,800 --> 00:09:49,800
+they'll select which playlist and position
+
+303
+00:09:49,800 --> 00:09:51,033
+they wanna add you to
+
+304
+00:09:51,400 --> 00:09:52,066
+and whereas
+
+305
+00:09:52,066 --> 00:09:54,100
+I guess the difference from that to the standard
+
+306
+00:09:54,100 --> 00:09:56,333
+submissions is that on the standard side
+
+307
+00:09:56,333 --> 00:09:58,466
+you submit directly to a playlist
+
+308
+00:09:59,066 --> 00:10:00,400
+interesting yeah
+
+309
+00:10:00,400 --> 00:10:03,366
+so are you seeing then a trend
+
+310
+00:10:03,366 --> 00:10:06,700
+of when you talk about a curator is a
+
+311
+00:10:06,700 --> 00:10:07,533
+is a curator
+
+312
+00:10:07,533 --> 00:10:09,433
+like someone who manages
+
+313
+00:10:09,733 --> 00:10:10,900
+a bunch of playlists
+
+314
+00:10:10,900 --> 00:10:11,800
+essentially
+
+315
+00:10:12,366 --> 00:10:13,166
+in this case
+
+316
+00:10:13,166 --> 00:10:14,966
+yeah so curators
+
+317
+00:10:14,966 --> 00:10:16,766
+you know the world of music curation is huge
+
+318
+00:10:16,766 --> 00:10:17,500
+you haven't uh
+
+319
+00:10:17,500 --> 00:10:19,100
+channels such as like colours
+
+320
+00:10:19,466 --> 00:10:21,166
+um circle and those muscle
+
+321
+00:10:21,166 --> 00:10:22,566
+like even by boiling right there
+
+322
+00:10:22,566 --> 00:10:24,100
+like music curation in a
+
+323
+00:10:24,200 --> 00:10:25,733
+in a sense yeah
+
+324
+00:10:25,733 --> 00:10:26,866
+then you have
+
+325
+00:10:26,900 --> 00:10:27,866
+in our essence
+
+326
+00:10:27,866 --> 00:10:31,200
+you working with the playlisters who have um
+
+327
+00:10:31,300 --> 00:10:32,966
+assets which are the playlist
+
+328
+00:10:32,966 --> 00:10:36,200
+which they spend a lot of time mastering the growth
+
+329
+00:10:36,200 --> 00:10:39,633
+mastering the curation aspects and that branding
+
+330
+00:10:39,766 --> 00:10:41,133
+um and yeah
+
+331
+00:10:41,133 --> 00:10:42,366
+so that's that's how we
+
+332
+00:10:42,366 --> 00:10:43,933
+when I refer to curators on
+
+333
+00:10:43,933 --> 00:10:44,500
+in this case
+
+334
+00:10:44,500 --> 00:10:46,433
+I'm talking about like the playlist is
+
+335
+00:10:46,733 --> 00:10:48,800
+um so yeah gotcha
+
+336
+00:10:48,966 --> 00:10:50,133
+and when you're saying
+
+337
+00:10:50,133 --> 00:10:52,466
+is why you're submitting to the curators the
+
+338
+00:10:52,466 --> 00:10:53,366
+the premium and
+
+339
+00:10:53,366 --> 00:10:54,300
+and you'd get
+
+340
+00:10:54,800 --> 00:10:55,933
+they would review it
+
+341
+00:10:55,933 --> 00:10:58,400
+and see which playlist they would add it to
+
+342
+00:10:58,533 --> 00:11:00,000
+are you getting is this
+
+343
+00:11:00,000 --> 00:11:02,566
+is the artist submitting or whatever submitting
+
+344
+00:11:02,700 --> 00:11:04,900
+getting actual feedback from like
+
+345
+00:11:05,066 --> 00:11:06,100
+you know like
+
+346
+00:11:06,100 --> 00:11:08,566
+I guess the quality of the song or the style
+
+347
+00:11:08,566 --> 00:11:09,466
+or you know
+
+348
+00:11:09,466 --> 00:11:11,333
+are they getting that kind of constructive feedback
+
+349
+00:11:11,333 --> 00:11:12,800
+or is it more just yeah
+
+350
+00:11:12,800 --> 00:11:14,166
+we think we can work for it or no
+
+351
+00:11:14,166 --> 00:11:15,066
+we can't what
+
+352
+00:11:15,066 --> 00:11:16,800
+what sort of depth does it go to
+
+353
+00:11:17,200 --> 00:11:18,400
+so in the current setup
+
+354
+00:11:18,400 --> 00:11:20,266
+if a curator accepts the song
+
+355
+00:11:20,266 --> 00:11:22,600
+they don't necessarily have to leave a comment
+
